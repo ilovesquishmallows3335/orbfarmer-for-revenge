@@ -1,0 +1,9 @@
+{
+    "id": "orb-farmer",
+    "name": "OrbFarmer",
+    "description": "Farms discord orbs by faking quest tasks",
+    "authors": [{ "name": "you", "id": "000000000000000000" }],
+    "main": "https://cdn.jsdelivr.net/gh/ilovesquishmallows3335/orbfarmer-for-revenge@main/index.js",
+    "version": "1.0.0",
+    "vendorDependencies": {}
+}
