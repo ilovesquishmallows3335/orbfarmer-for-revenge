@@ -1,0 +1,8 @@
+{
+    "id": "orb-farmer",
+    "name": "OrbFarmer",
+    "description": "Fakes Discord quest tasks and farms orbs automatically",
+    "authors": [{ "name": "you", "id": "0" }],
+    "version": "1.0.0",
+    "main": "index.js"
+}
